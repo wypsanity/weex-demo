@@ -3,7 +3,7 @@
 
 ## 介绍
 
-> eros app 快速开发模板，可通过脚手架 eros-cli `init` 指令快速生成，Weex 开发。
+> eros app 快速开发模板，可通过脚手架 eros-cli `init` 指令快速生成，123Weex 开发。
 
 ## 分支介绍
 
